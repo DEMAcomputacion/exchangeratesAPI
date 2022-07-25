@@ -1,0 +1,13 @@
+.bgcolor {
+    background: rgb(31,197,195);
+    background: linear-gradient(114deg, rgba(31,197,195,1) 0%, rgba(33,185,100,1) 100%);
+}
+
+body {
+    font-weight: 10px;
+}
+
+.textomonedas {
+    font-size: .5em;
+    color: #555555;
+}
